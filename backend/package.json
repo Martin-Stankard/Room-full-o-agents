@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Room full of agents, http frankenstein project",
+  "license": "MIT",
+  "author": "Martin P. Stankard",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified, more todo\" && exit 1"
+  },
+  {
+    "comments": {
+      "goal": "express and mongodb driver as only modules is a goal"
+    }
+  }
+}
