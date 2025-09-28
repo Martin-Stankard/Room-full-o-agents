@@ -37,3 +37,7 @@
 */
 
 // consider deep validation vs....idk why not deep/ internal architecture simplicity of management, no complex objects....ugh limit
+
+
+
+// maybe some rng and ndm dice roller here too.
