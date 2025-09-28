@@ -4,6 +4,13 @@ Abstract until json.cfg "Chatroom full of LLM driven agents". Ollama llama3.21b 
 always Docker-compose up
 
 -phase zero is bang out some folders and index.js. Agent and room oop zone under backend.
+-- assorted dsign patterns around juggling room class and agent class
+-- leader agent is very much wrapped up in the behvior implementation....drive the room interaction as dm. 
+  -- Like a job to do...starts with laying out a plan and occasionally asks about the weather if things get looped into silence
+  -- maybe no oop leader-agent bs and instead just a flag, 
+  -- A room can have n leader flags unless decorated to max = n
+  -- no min... a silent room...if no oop care, no point to at least > 1,  and only behavior driven,progress made. Manana, 
+-- 
 - phase 1 
 -- import working mern stack project
   - swap out react for streaming equiv (prob ugly and simple) mern app, with system time to show streaming
@@ -14,3 +21,9 @@ always Docker-compose up
   - load json and csv page
   -- send that to db/ db page o db testing buttons with text input fields.
   
+
+
+
+
+
+ 
