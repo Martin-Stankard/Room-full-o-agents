@@ -10,3 +10,4 @@
 // Standard is User approve || unit test pass
 
 
+//A room's over arching goal is to provide a human parsible stream of products.

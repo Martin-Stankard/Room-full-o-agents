@@ -20,7 +20,11 @@ always Docker-compose up
   -- server is a color
   - load json and csv page
   -- send that to db/ db page o db testing buttons with text input fields.
-  
+
+
+- phase 10, dnd and software dev vibe crawling via prompt engineering asise...
+  "A room's over arching goal is to provide a human parsible stream of products."
+  - the extreme/near-term, ai looking at stuff, a la "agents in a room" and providing business fvalue shakes out of this pretty fast and is the near term to the cloud!!! , dream sheet local endstate.
 
 
 
